@@ -1,0 +1,7 @@
+.ipynb_checkpoints 
+**/__pycache__ 
+**/derby.log 
+**/metastore_db
+**/brown_model
+**/data/*.gz
+
