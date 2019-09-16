@@ -1,6 +1,6 @@
 # Inteligent data analysis @ [FIIT STU](http://www.fiit.stuba.sk)
 
-Official repository of IAU course in the academic year 2019/2020. *For Slovak version of IAU course repository, click [here](../../).*
+Official repository of IAU course in the academic year 2019/2020. *For Slovak version of IAU course repository, click [here](../../../).*
 
 ## Content
 
