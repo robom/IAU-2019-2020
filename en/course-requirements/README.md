@@ -4,9 +4,9 @@
 
 Project: **max. 50 points**
 * Work on the project and tasks during labs: 5 points
-* 1`.` phase - exploratory analysis (week 6): 12 points
-* 2`.` phase - preprocessing (week 9): 18 points
-* 3`.` phase -  machine learning (week 12): 15 points
+* 1\. phase - exploratory analysis (week 6): 12 points
+* 2\. phase - preprocessing (week 9): 18 points
+* 3\. phase -  machine learning (week 12): 15 points
 
 Project is solved in pairs.
 
