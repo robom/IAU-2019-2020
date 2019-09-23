@@ -4,7 +4,7 @@ Official repository of IAU course in the academic year 2019/2020. *For Slovak ve
 
 ## Content
 
-1. [Basic information and semester schedule](basic-info)
+1. [Basic course information](basic-info)
 2. [Course requirements](course-requirements)
 3. [Project](project)
 4. [Lectures](lectures)

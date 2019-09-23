@@ -4,7 +4,7 @@ Oficálny repozitár k predmetu IAU v akademickom roku 2019/2020. *For English v
 
 ## Obsah
 
-1. [Základné informácie a harmonogram](zakladne-informacie)
+1. [Základné informácie o predmete](zakladne-informacie)
 2. [Podmienky absolvovania predmetu](podmienky-absolvovania)
 3. [Projekt](projekt)
 4. [Prednášky](prednasky)
