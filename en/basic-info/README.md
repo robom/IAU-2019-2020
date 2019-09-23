@@ -1,10 +1,11 @@
-# Základné informácie 
+# Basic course information 
 
-## O predmete
+## About the course
 
 **Level of study:** bachelor  
 **Credits allocated:** 6  
 **Semester:** autumn    
+
 **Lecture time and location:**  Thursday, 11:00-12:40, Aula Minor (-1.65)     
 
 **Lecturers:** 
