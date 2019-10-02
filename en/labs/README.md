@@ -6,4 +6,4 @@
 
 **Week 2 (30.9. - 6.10.)**
 
-- [Basics of Python language and work with libraries for work with data](02.md)
+- [Basics of Python language and its libraries for data processing](02.md)
