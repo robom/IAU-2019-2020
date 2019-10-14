@@ -11,3 +11,7 @@
 **3. týždeň (7.10. - 13.10.)**
 
 - [Prieskumná analýza a vizualizácia dát](03/03.md)
+
+**4. týždeň (14.10. - 20.10.)**
+
+- [Integrácia dát](04.md)

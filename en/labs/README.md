@@ -11,3 +11,7 @@
 **Week 3 (7.10. - 13.10.)**
 
 - [Exploratory analysis and data visualization](03/03.md)
+
+**Week 4 (14.10. - 20.10.)**
+
+- [Data integration](04.md)
