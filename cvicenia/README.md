@@ -15,3 +15,7 @@
 **4. týždeň (14.10. - 20.10.)**
 
 - [Integrácia dát](04.md)
+
+**5. týždeň (21.10. - 27.10.)**
+
+- [Štatistické testovanie hypotéz](05/05.md)

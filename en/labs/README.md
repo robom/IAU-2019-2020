@@ -15,3 +15,7 @@
 **Week 4 (14.10. - 20.10.)**
 
 - [Data integration](04.md)
+
+**Week 5 (21.10. - 27.10.)**
+
+- [Statistical hypotheses testing](05/05.md)
