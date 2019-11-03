@@ -19,3 +19,7 @@
 **5. týždeň (21.10. - 27.10.)**
 
 - [Štatistické testovanie hypotéz](05/05.md)
+
+**6. týždeň (28.10. - 3.11.)**
+
+- [Konzultujte postup na projekte](06.md)

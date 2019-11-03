@@ -19,3 +19,7 @@
 **Week 5 (21.10. - 27.10.)**
 
 - [Statistical hypotheses testing](05/05.md)
+
+**Week 6 (28.10. - 3.11.)**
+
+- [Consult progress on the project](06.md)
