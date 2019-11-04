@@ -23,3 +23,7 @@
 **6. týždeň (28.10. - 3.11.)**
 
 - [Konzultujte postup na projekte](06.md)
+
+**7. týždeň (4.11. - 10.11.)**
+
+- [Spracovanie textu v Pythone](07/07.md)

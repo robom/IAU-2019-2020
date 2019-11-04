@@ -23,3 +23,7 @@
 **Week 6 (28.10. - 3.11.)**
 
 - [Consult progress on the project](06.md)
+
+**Week 7 (4.11. - 10.11.)**
+
+- [Text processing in Python](07/07.md)
