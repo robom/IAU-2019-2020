@@ -5,3 +5,5 @@
 3. [Prieskumná analýza dáta](03/03_prieskumna-analyza.ipynb)
 4. [Získavanie a prepájanie dát](04/)
 5. [Štatistické testovanie hypotéz](05/05_statisticke-testovanie.ipynb)
+6. [Čistenie a predspracovanie dát](06/06_cistenie-a-predspracovanie-dat.ipynb)
+7. [Spracovanie textu](07/07_spracovanie-textu.ipynb)

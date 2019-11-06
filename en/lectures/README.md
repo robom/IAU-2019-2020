@@ -5,3 +5,5 @@
 3. [Exploratory data analysis](03/03_exploratory-analysis.ipynb)
 4. [Data acquisition, integration, and linkage](04/)
 5. [Statistical hypotheses testing](05/05.ipynb)
+6. [Data cleaning and preprocessing](06/06_data-cleaning-and-preprocessing.ipynb)
+7. Text processing
