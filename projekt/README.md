@@ -6,7 +6,7 @@ Cieľom projektu je osvojiť si základné koncepty a techniky analýzy dát, po
 
 ## Dáta
 
-Každá dvojica bude pracovať s im náhodne pridelenou dátovou sadou. Dáta predstavujú záznamy o pacientoch s chorobou štítnej žľazy. Vašou úlohou je vedieť predikovať hodnotu **Y** (môže sa líšiť v závislosti od pridelenej dátovej sady). Budete sa musieť pritom vysporiadať s viacerými problémami, ktoré sa v dátach nachádzajú (formáty dát, chýbajúce, nezmyselné alebo vychýlené hodnoty a pod.).
+Každá dvojica bude pracovať s im náhodne pridelenou dátovou sadou. Dáta predstavujú záznamy o pacientoch, ktorí boli vyšetrovaní na cukrovku. Vašou úlohou je vedieť predikovať hodnotu **Y** (môže sa líšiť v závislosti od pridelenej dátovej sady). Budete sa musieť pritom vysporiadať s viacerými problémami, ktoré sa v dátach nachádzajú (formáty dát, chýbajúce, nezmyselné alebo vychýlené hodnoty a pod.).
 
 ## Prieskumná analýza (max. 12b)
 Prieskumná analýza je kľúčovou časťou analýzy dát. Bez nej nie sme schopní dáta spracúvať, pretože nevieme, čo sa v nich nachádza. Využíva sa  pritom predovšetkým deskriptívna štatistika a rôzne podporné vizualizácie. 
