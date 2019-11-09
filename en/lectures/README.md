@@ -6,4 +6,4 @@
 4. [Data acquisition, integration, and linkage](04/)
 5. [Statistical hypotheses testing](05/05.ipynb)
 6. [Data cleaning and preprocessing](06/06_data-cleaning-and-preprocessing.ipynb)
-7. Text processing
+7. [Text processing](07/07_text-processing.ipynb)
