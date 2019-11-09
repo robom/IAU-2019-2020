@@ -27,3 +27,7 @@
 **Week 7 (4.11. - 10.11.)**
 
 - [Text processing in Python](07/07.md)
+
+**Week 8 (11.11. - 17.11.)**
+
+- [Consult progress on the project](08.md)

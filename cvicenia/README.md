@@ -27,3 +27,7 @@
 **7. týždeň (4.11. - 10.11.)**
 
 - [Spracovanie textu v Pythone](07/07.md)
+
+**8. týždeň (11.11. - 17.11.)**
+
+- [Konzultujte postup na projekte](08.md)
