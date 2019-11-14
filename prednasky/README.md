@@ -7,3 +7,4 @@
 5. [Štatistické testovanie hypotéz](05/05_statisticke-testovanie.ipynb)
 6. [Čistenie a predspracovanie dát](06/06_cistenie-a-predspracovanie-dat.ipynb)
 7. [Spracovanie textu](07/07_spracovanie-textu.ipynb)
+8. [Vyhodnocovanie a výber modelov strojového učenia](08/08_vyhodnocovanie.ipynb)
