@@ -7,3 +7,4 @@
 5. [Statistical hypotheses testing](05/05.ipynb)
 6. [Data cleaning and preprocessing](06/06_data-cleaning-and-preprocessing.ipynb)
 7. [Text processing](07/07_text-processing.ipynb)
+8. [Evaluation and selection of machine learning models](08/08_evaluation.ipynb)
