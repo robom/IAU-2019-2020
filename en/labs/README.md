@@ -31,3 +31,7 @@
 **Week 8 (11.11. - 17.11.)**
 
 - [Consult progress on the project](08.md)
+
+**Week 9 (18.11. - 24.11.)**
+
+- [Consult progress on the project](09.md)

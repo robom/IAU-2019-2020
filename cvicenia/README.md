@@ -31,3 +31,7 @@
 **8. týždeň (11.11. - 17.11.)**
 
 - [Konzultujte postup na projekte](08.md)
+
+**9. týždeň (18.11. - 24.11.)**
+
+- [Konzultujte postup na projekte](09.md)
