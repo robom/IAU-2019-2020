@@ -35,3 +35,7 @@
 **9. týždeň (18.11. - 24.11.)**
 
 - [Konzultujte postup na projekte](09.md)
+
+**10. týždeň (25.11. - 1.12.)**
+
+- [Lineárna a logistická regresia](10/10.md)

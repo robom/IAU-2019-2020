@@ -35,3 +35,7 @@
 **Week 9 (18.11. - 24.11.)**
 
 - [Consult progress on the project](09.md)
+
+**Week 10 (25.11. - 1.12.)**
+
+- [Linear and logistic regression](10/10.md)
