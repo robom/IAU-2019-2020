@@ -8,3 +8,4 @@
 6. [Data cleaning and preprocessing](06/06_data-cleaning-and-preprocessing.ipynb)
 7. [Text processing](07/07_text-processing.ipynb)
 8. [Evaluation and selection of machine learning models](08/08_evaluation.ipynb)
+10. [Decision trees](10/10_decision_trees.ipynb)
