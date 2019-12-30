@@ -39,3 +39,11 @@
 **10. týždeň (25.11. - 1.12.)**
 
 - [Lineárna a logistická regresia](10/10.md)
+
+**11. týždeň (2.12. - 8.12.)**
+
+- [Konzultujte postup na projekte](11.md)
+
+**12. týždeň (9.12. - 15.12.)**
+
+- [Konzultujte postup na projekte](12.md)
